@@ -1,0 +1,4 @@
+- utilize AI agent "AutoGen"
+- make the agent to be able to prompt into the llm by it self
+- create program as an API
+- make the agent to be able to search data from more than 1 index
